@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidSystemAlertWindowApp</string>
+    <string name="system_alert_window">System Alert Window</string>
+    <string name="next">Go to next</string>
+</resources>
